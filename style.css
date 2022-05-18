@@ -1,0 +1,34 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Josefin+Sans&family=Signika+Negative&display=swap');
+
+*{
+    text-decoration: none;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.important-new{
+    margin-top: 30px;
+
+}
+
+.main-title{
+
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 70px;
+}
+
+
+.secondary-new-img{
+    width: 200px;
+    height: 150px;
+    margin-right: 10px;
+    object-fit: cover;
+
+}
+
+
+
+.secondary-new-text{
+   
+    
+}
